@@ -59,8 +59,8 @@ function App() {
       <section className="tech-section fade-in" id="python">
         <h2>🐍 Python / FastAPI</h2>
         <p>
-          Lo uso para automatizar procesos, crear APIs rápidas y conectar
-          sistemas en segundo plano.
+          cuento con experiencia en Python y FastAPI para construir APIs
+          rápidas y eficientes, ideal para proyectos que requieren alta
         </p>
       </section>
 
