@@ -6,7 +6,7 @@ function App() {
       <section className="intro-section fade-in">
         <div className="intro-image">
           <img
-            src="/src/img/David_Alarcon.png"
+            src="img/David_Alarcon.png"
             alt="Foto de David Alarcón"
             className="intro-img"
           />
