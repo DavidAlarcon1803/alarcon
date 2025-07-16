@@ -40,35 +40,20 @@ function App() {
         </div>
       </section>
 
-      <section className="tech-section fade-in" id="react">
-        <h2>⚛️ React</h2>
-        <p>
-          Mi herramienta diaria para construir interfaces modernas, usando hooks
-          y componentes reutilizables.
-        </p>
-      </section>
-
-      <section className="tech-section fade-in" id="node">
-        <h2>🟩 Node.js</h2>
-        <p>
-          Ideal para APIs rápidas y eficientes, manejando colas, lógica de
-          negocio y procesos backend.
-        </p>
-      </section>
-
       <section className="tech-section fade-in" id="python">
         <h2>🐍 Python / FastAPI</h2>
         <p>
-          cuento con experiencia en Python y FastAPI para construir APIs
-          rápidas y eficientes, ideal para proyectos que requieren alta
-        </p>
-      </section>
-
-      <section className="tech-section fade-in" id="docker">
-        <h2>🐳 Docker</h2>
-        <p>
-          Contenerizo mis proyectos para que corran igual en cualquier máquina.
-          DevOps básico 🔧.
+          Cuento con experiencia en Python y FastAPI para construir APIs rápidas
+          y eficientes, ideales para proyectos que requieren alto rendimiento y
+          escalabilidad. En un proyecto empresarial, desarrollé un gestor de
+          archivos con Django para almacenar y administrar documentos en un
+          servidor local, como parte de un aplicativo interno. Inicié con la
+          integración del inicio de sesión único (SSO) mediante Microsoft, y
+          posteriormente implementé integraciones con sistemas contables como
+          Siesa y OpenETL. Me enfoqué en exponer endpoints para ser consumidos
+          por otros módulos backend e integré RabbitMQ para ejecutar tareas en
+          segundo plano de forma asíncrona, optimizando los procesos de
+          comunicación y carga del sistema.
         </p>
       </section>
 
