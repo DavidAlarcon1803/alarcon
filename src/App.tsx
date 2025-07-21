@@ -57,6 +57,23 @@ function App() {
         </p>
       </section>
 
+      <section className="tech-section fade-in" id="react">
+        <h2>⚛️ React / Maquetado y Consumo de APIs</h2>
+        <p>
+          Tengo experiencia desarrollando interfaces interactivas con React,
+          aplicando buenas prácticas de maquetado responsive con HTML, CSS y
+          bibliotecas como Material UI. En un proyecto empresarial, fui
+          responsable de construir módulos de frontend conectados a APIs
+          generadas con FastAPI desde el backend. Me encargué de consumir estos
+          servicios mediante `axios` o `fetch`, manejando peticiones asíncronas,
+          validación de datos y manejo de errores. Trabajé en la implementación
+          de formularios dinámicos, visualización de datos en tablas, y
+          navegación fluida con React Router. Además, realicé integración
+          completa con lógica empresarial, asegurando que el frontend
+          respondiera correctamente a los flujos definidos desde el backend.
+        </p>
+      </section>
+
       <section className="contact-section fade-in">
         <h2>📬 ¿Charlamos?</h2>
         <a href="mailto:tuemail@correo.com" className="contact-button">
